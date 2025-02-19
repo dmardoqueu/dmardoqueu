@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmardoqueu&show_icons=true&locale=en" alt="dmardoqueu" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmardoqueu&show_icons=true&locale=en&layout=compact" alt="dmardoqueu" /></p>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dmardoqueu/dmardoqueu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dmardoqueu/dmardoqueu/output/github-snake.svg" />
