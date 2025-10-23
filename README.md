@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
